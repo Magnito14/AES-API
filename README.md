@@ -1,6 +1,8 @@
 # AES API
 
-###### Usage
+API Wrapper For The Aes Class.
+
+## Usage
 
 **Creating API Object:**
 ```cs
