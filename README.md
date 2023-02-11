@@ -20,7 +20,7 @@ Console.WriteLine($"Encrypted text: {encryptedText}.");
 ```
 
 **Decrypting:**
-```
+```cs
 string decryptedText = aes.Decrypt(encryptedText, password, salt);
 Console.WriteLine($"Decrypted text: {decryptedText}.");
 ```
